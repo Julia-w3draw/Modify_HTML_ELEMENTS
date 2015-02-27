@@ -1,1 +1,35 @@
 
+body{
+	margin: 0px;
+}
+.elem{
+	width:150px;
+	height:150px;
+	background: #36ED85;
+	position: absolute;	
+}
+#elem1{
+	left: 290px;
+	top: 50px;
+	background: #353BEA;
+}
+
+
+#elem2{
+	left: 100px;
+	top: 320px;
+	background: #EFFC7E;
+}
+
+#elem3{
+	left: 40px;
+	top: 95px;
+	background: #ff3BEA;
+}
+
+#elem4{
+	left: 350px;
+	top: 250px;
+	background: #9196F2;
+	
+}
